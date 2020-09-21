@@ -1,0 +1,2 @@
+# POO_Pacman
+Exercício individual - Tema: Aula 17/08/20 Vencimento 30 set por 23:59 Pontos 10 Enviando um upload de arquivo Disponível 17 ago em 0:00 - 30 set em 23:59 aproximadamente 2 meses PACMAN  Faça a codificação do personagem principal; inimigos e seus métodos;  Utilize os exemplos da aula como modelo de apoio;  Ao criar o seu texto utilize o template disponível no conteúdo da aula do dia 10/08/20 (sbc_template.doc);  Tarefa deve ser realizada de forma individual.  Usar modelo UML  No Word, pelo GitHub
